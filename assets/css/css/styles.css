@@ -1,0 +1,15 @@
+*{
+    width: 90%;
+    margin: auto;
+    padding: .25; 
+}
+
+.titulo {
+    color:rgb(4, 248, 81)
+}
+
+.fondo {
+    /*background-color: darkgrey;*/
+    background-image: url(../img/boca.jpg);
+    /*background-image: url(https://pbs.twimg.com/media/FqAI1pZWYAEneRc.jpg);*/
+}
